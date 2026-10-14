@@ -1,6 +1,6 @@
 check straw
 
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/01e35762-e9ce-4f20-bc7c-23894e9e9b7c" />
+<img width="501" height="313" alt="image" src="https://github.com/user-attachments/assets/068fd3f5-1f6b-4317-a46e-b747be9674f6" />
 
 
 
